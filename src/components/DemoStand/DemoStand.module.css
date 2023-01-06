@@ -1,0 +1,12 @@
+.stand {
+    height: 100vh;
+    margin: 50px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+
+}
+
+.stand_item {
+
+}
