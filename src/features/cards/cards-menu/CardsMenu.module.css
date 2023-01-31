@@ -1,0 +1,25 @@
+.menuContainer {
+  cursor: pointer;
+
+  display: flex;
+  align-items: center;
+}
+
+.titleSpan {
+  max-width: 400px;
+  margin-right: 5px;
+
+  font-size: 22px;
+  font-weight: 600;
+  line-height: 27px;
+  word-break: break-word;
+}
+
+.titleImgBox {
+  display: flex;
+  flex-direction: column;
+}
+
+.cardImg {
+  width: 170px;
+}

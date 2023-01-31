@@ -1,0 +1,17 @@
+.spanBlock {
+  margin-top: 30px;
+}
+.span {
+  margin-left: 10px;
+
+  font-family: 'Montserrat', sans-serif;
+  font-size: 20px;
+  font-weight: 500;
+  line-height: 24px;
+}
+
+.pen {
+  width: 16px;
+  height: 16px;
+  margin-left: 10px;
+}
