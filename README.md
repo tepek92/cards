@@ -1,25 +1,26 @@
 # Cards training
 
-When we collect the answer ourselves and generate it, the brain works more actively. That is why everything we have
-spoken and imagined is remembered better than what we have just seen and heard.
+### Create learning cards and learn from them. You can create your own cards by adding pictures to them, as well as search for cards created by other users.
 
-This principle is the basis of learning with cards. We see a question - one side of the card with an unfamiliar word or
-definition. We then try to find the answer on our own and, if we fail, we open the back side and check ourselves. In
-essence, each viewing of a stack of cards is a small personal exam, a test of knowledge. During such a test, information
-is absorbed better than in simple reading.
-
-You can create your own study cards in the app and share them with other students. You can decorate the cards with
-pictures.
+[![demo](https://img.shields.io/badge/-demo-brightgreen?style=for-the-badge&logo=github)](https://olgakapskaya.github.io/cards/)
 
 ## Authors:
 
 [![Contributors][contributors-shield]][contributors-url]
-
-[![demo](https://img.shields.io/badge/-demo-brightgreen?style=for-the-badge&logo=github)](https://olgakapskaya.github.io/cards/)
-
 - [@tepek92](https://github.com/tepek92)
 - [@OlgaKapskaya](https://github.com/OlgaKapskaya)
 - [@kirkade](https://github.com/kirkade)
+
+## Implemented:
+
+- #### login / registration / password recovery
+- #### filtering and searching in tables
+- #### pagination in tables
+- #### adding and removing packs/cards
+- #### adding pictures to questions
+- #### card learning process
+- #### profile editing
+- #### server error handling
 
 ## Stack:
 
